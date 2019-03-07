@@ -1,0 +1,27 @@
+body {
+    background-color: linen;
+	text-align: center;
+}
+
+h1 {
+    color: maroon;
+	text-align: center;
+}
+
+h2 {
+	color: lightblue;
+}
+a:link {
+	color: #6fe1e8;
+}
+a:visited {
+	color: #e86f6f;
+}
+a:hover {
+	color: #e8e86f;
+}
+a:active {
+	color: #e86fdf;
+}
+
+	
